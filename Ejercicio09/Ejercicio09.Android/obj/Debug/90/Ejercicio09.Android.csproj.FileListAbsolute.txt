@@ -1,0 +1,8 @@
+F:\TECSUP\2019-2-V\DesarrolloAaplicacionesMultiplataformas\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+F:\TECSUP\2019-2-V\DesarrolloAaplicacionesMultiplataformas\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\build.props
+F:\TECSUP\2019-2-V\DesarrolloAaplicacionesMultiplataformas\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\adb.props
+F:\TECSUP\2019-2-V\DesarrolloAaplicacionesMultiplataformas\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\Ejercicio09.Android.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\kevin\Desktop\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\build.props
+C:\Users\kevin\Desktop\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\adb.props
+C:\Users\kevin\Desktop\Ejercicio09\Ejercicio09\Ejercicio09.Android\obj\Debug\90\Ejercicio09.Android.csprojAssemblyReference.cache
